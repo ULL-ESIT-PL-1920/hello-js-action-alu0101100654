@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action-alu0101100654",
+  "version": "1.0.0",
+  "description": "Creación de una acción de GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0101100654.git"
+  },
+  "keywords": [],
+  "author": "Florentín Pérez González <alu0101100654@ull.edu.es>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0101100654/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-PL-1920/hello-js-action-alu0101100654#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
